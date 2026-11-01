@@ -231,7 +231,7 @@ try:
 
               # Közép rész: Halott adatai
               with bcol2:
-                st.markdown("#### **HALOTT ADATAI**")
+                st.markdown("#### **ELHUNYT ADATAI**")
 
                 g_val = get_val(row, 6)
                 if g_val != "":
